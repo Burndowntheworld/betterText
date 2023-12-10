@@ -1,0 +1,12 @@
+LICENSE.txt
+setup.py
+app/betterText.egg-info/PKG-INFO
+app/betterText.egg-info/SOURCES.txt
+app/betterText.egg-info/dependency_links.txt
+app/betterText.egg-info/requires.txt
+app/betterText.egg-info/top_level.txt
+app/bettertext/__init__.py
+app/bettertext/src/__init__.py
+app/bettertext/src/bettertext.py
+app/bettertext/test/__init__.py
+app/bettertext/test/test cases.py
